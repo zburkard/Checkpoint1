@@ -72,6 +72,14 @@
   color: white;
 }
 
+.footer-space {
+  min-height: 30vh;
+}
+
+.footer-space2 {
+  min-height: 10vh;
+}
+
 @media(max-width:750px) {
   .hide-card {
     display: none;
